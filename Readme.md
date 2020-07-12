@@ -27,3 +27,8 @@ expo start
 
 This will open the Metro Bundler on the browser. If you have Expo application installed on your mobile, open the Expo application and scan the QR code (LAN version preferably) from the Metro Bundler browser which will then open the project on your mobile device.
 
+Authors of this project:
+Muhammad Hamza Siddiqui
+Muhammad Haris
+Osama Habib
+
