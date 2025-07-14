@@ -6,7 +6,7 @@ Project Mangers (with team members) will be using app for project management. Da
 The app was built using React-Native (as front-end) and ExpressJS/NodeJS (with mongodb) as backend.
 
 
-Backend NodeJS server of this app is deployed on heroku by the URL: https://ntcpdiamond-backend.herokuapp.com
+Backend NodeJS server of this app is deployed on heroku by the URL: ```https://ntcpdiamond-backend.herokuapp.com```
 
 
 This project was creted using 'expo-cli'. In order to run this project on your machine/device, make sure you have NodeJS installed and 'Expo' installed on your mobile device (since the app isn't yet deployed on Play Store or App Store, you will need Expo to run the app on either an Android or iOS device).
