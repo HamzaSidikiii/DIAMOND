@@ -12,11 +12,11 @@ Backend NodeJS server of this app is deployed on heroku by the URL: https://ntcp
 This project was creted using 'expo-cli'. In order to run this project on your machine/device, make sure you have NodeJS installed and 'Expo' installed on your mobile device (since the app isn't yet deployed on Play Store or App Store, you will need Expo to run the app on either an Android or iOS device).
 Clone/download the repository on your PC. To install all the dependencies run: 
 
-npm install
+```npm install```
 
 Then run: 
 
-expo start
+```expo start```
 
 
 This will open the Metro Bundler on the browser. If you have Expo application installed on your mobile, open the Expo application and scan the QR code (LAN version preferably) from the Metro Bundler browser which will then open the project on your mobile device.
